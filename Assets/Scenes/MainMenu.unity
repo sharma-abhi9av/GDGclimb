@@ -348,7 +348,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 1
     m_VerticalOverflow: 1
     m_LineSpacing: 1
-  m_Text: "\uC2A4\uD3EC\uCE20\uCE74"
+  m_Text: SportsCar
 --- !u!222 &37732087
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -492,7 +492,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 1
     m_VerticalOverflow: 1
     m_LineSpacing: 1
-  m_Text: "\uC2DC\uC791"
+  m_Text: START
 --- !u!222 &93804100
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -2292,7 +2292,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 1
     m_VerticalOverflow: 1
     m_LineSpacing: 1
-  m_Text: "\uC624\uD1A0\uBC14\uC774"
+  m_Text: Motorcycle
 --- !u!222 &621744281
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -3196,7 +3196,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 1
     m_VerticalOverflow: 1
     m_LineSpacing: 1
-  m_Text: "\uC2A4\uD14C\uC774\uC9C0"
+  m_Text: STAGE
 --- !u!222 &883032655
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -3294,7 +3294,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 1
     m_VerticalOverflow: 1
     m_LineSpacing: 1
-  m_Text: "\uCF54\uC778 \uBD80\uC871\uC73C\uB85C \uAD6C\uB9E4 \uBD88\uAC00"
+  m_Text: Not enough coins to purchase
 --- !u!222 &908631350
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -3372,7 +3372,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 1
     m_VerticalOverflow: 1
     m_LineSpacing: 1
-  m_Text: "\uD0F1\uD06C"
+  m_Text: Tank
 --- !u!222 &931229476
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -4166,7 +4166,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 1
     m_VerticalOverflow: 1
     m_LineSpacing: 1
-  m_Text: "\uCC28\uB7C9"
+  m_Text: GARAGE
 --- !u!222 &1369517709
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -4332,8 +4332,8 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 230102256}
   m_HandleRect: {fileID: 230102255}
   m_Direction: 0
-  m_Value: -0.00000006165167
-  m_Size: 0.4619565
+  m_Value: -0.00000006165168
+  m_Size: 0.46195656
   m_NumberOfSteps: 0
   m_OnValueChanged:
     m_PersistentCalls:
@@ -4739,7 +4739,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 1
     m_VerticalOverflow: 1
     m_LineSpacing: 1
-  m_Text: Hill Climber
+  m_Text: GDG ROVER
 --- !u!222 &1620295803
 CanvasRenderer:
   m_ObjectHideFlags: 0

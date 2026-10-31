@@ -43,7 +43,6 @@ SpriteAtlas:
     variantMultiplier: 1
     packables:
     - {fileID: 102900000, guid: 880539fd47fbd174a9b98adf6c1a4197, type: 3}
-    totalSpriteSurfaceArea: 7136881
     bindAsDefault: 1
   m_MasterAtlas: {fileID: 0}
   m_PackedSprites:
@@ -112,6 +111,7 @@ SpriteAtlas:
   - {fileID: 21300000, guid: 97259de5ffdc9e84c9232faf2e5cdd5a, type: 3}
   - {fileID: 21300000, guid: 37ef760623927d8469f2e9b1cb57820f, type: 3}
   - {fileID: 21300000, guid: 99f4b416e1d146041857e2c45bcac1a6, type: 3}
+  - {fileID: 21300000, guid: 5c1489165571e215682586cd8e81ccc1, type: 3}
   - {fileID: 21300000, guid: 16d36b964ece7af4aae2d9d4f48fcc1f, type: 3}
   - {fileID: 21300000, guid: a26595a68edc5df4f873b2de4f52bc1e, type: 3}
   - {fileID: 21300000, guid: 5e18d2c6388fb284593e1fdb4e27f481, type: 3}
@@ -294,6 +294,7 @@ SpriteAtlas:
   - MessageBoxBackground
   - fuel-warning
   - lowres-terrain-alien
+  - CyberSky
   - lowres-tree-part2
   - lowres-highway-ground
   - terrain-cave-surface
